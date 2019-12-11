@@ -3,10 +3,8 @@ Pod::Spec.new do |s|
   s.name         = "NativeFort"
   s.version      = "1.0.0"
   s.summary      = "NativeFort"
-  s.description  = <<-DESC
-                  NativeFort
-                   DESC
-  s.homepage     = ""
+  s.description  = "Payfort SDK for React Native"
+  s.homepage     = "https://github.com/szczepanbarszczowski/react-native-payfort"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
@@ -20,5 +18,3 @@ Pod::Spec.new do |s|
   #s.dependency "others"
 
 end
-
-  
